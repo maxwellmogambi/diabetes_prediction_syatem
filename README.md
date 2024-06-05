@@ -20,7 +20,7 @@ The Bagging Classifier achieved the highest accuracy in our tests.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-hub.git
+   git clone https://github.com/maxwellmogambi/diabetes-prediction-hub.git
    cd diabetes-prediction-hub
    ```
 
@@ -54,7 +54,7 @@ Further improvements can be made by:
 
 ## Author
 
-Maxwell Mogambi [linkendIn](https://www.linkedin.com/in/maxwell-mogambi/)
+Maxwell Mogambi [linkendIn](https://www.linkedin.com/in/maxwell-mogambi/) <br>
 Norman Munguti  [email](normanmunguti@gmail.com)
 
 ## Licence
